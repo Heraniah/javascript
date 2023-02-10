@@ -20,4 +20,4 @@ console.log(matrix[2][1]);
 // brian's age
 console.log(students[1].age);
 
-
+console.log("1" * 1);
